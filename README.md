@@ -1,4 +1,9 @@
-# cashflow
+# CashFlow
+
+```
+Proyecto de billetera hecho en Vue.JS, estilizado con TailWindCSS.
+El proyecto quedo al 99%, el gráfico de los montos quedó fallando, proximamente a reparar con una libreria.
+```
 
 ## Project setup
 ```
